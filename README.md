@@ -1,1 +1,1 @@
-# nodejs-typescript-webpack-example
+# nodejs-typescript-example
